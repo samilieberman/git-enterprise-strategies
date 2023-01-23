@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './gator.gif';
 import './App.css';
 
 function App() {
@@ -9,6 +9,10 @@ function App() {
         <p>
           Hello World! This is our team project.
         </p>	
+
+        <p> 
+        Hello World! This is our team project. 
+        </p>
       </header>
     </div>
   );
