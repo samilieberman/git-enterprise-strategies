@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <img src={gatorLogo} className="App-logo" alt="logo" />
+        <p> Hello World! </p>
+        <p> My name is Connor and this is my project </p>
       </header>
     </div>
   );
