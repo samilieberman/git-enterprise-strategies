@@ -1,5 +1,5 @@
-import gatorLogo from './gator.gif';
-import './App.css';
+import gatorLogo from "./gator.gif";
+import "./App.css";
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={gatorLogo} className="App-logo" alt="logo" />
         <p> Hello World! </p>
-        <p> My name is Sami and this is my project </p>
+        <p> My name is Stanley and this is my project </p>
       </header>
     </div>
   );
